@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
   <link rel="icon" type="image/png" href="./assets/images/favicon.png"/>
-  
+
   <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
     rel="stylesheet">
 
@@ -21,7 +21,7 @@
 
   <!-- Additional CSS Files -->
   <link rel="stylesheet" href="assets/css/fontawesome.css">
-  <link rel="stylesheet" href="assets/css/owl.css">  
+  <link rel="stylesheet" href="assets/css/owl.css">
   <link rel="stylesheet" href="assets/css/about.css">
   <link rel="stylesheet" href="assets/css/custom.css">
   <link rel="stylesheet" href="assets/css/contact.css">
@@ -70,9 +70,9 @@
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link" href="https://www.behance.net/RasasvadaArchitects">
-            <i class="fa fa-behance" aria-hidden="true"></i> 
+            <i class="fa fa-behance" aria-hidden="true"></i>
           </a>
-        </li> 
+        </li>
       </ul>
     </div>
     </div>
@@ -90,22 +90,22 @@
         <br>
         <div class="contact-form">
           <form id="contact" action="" method="post">
-            <div class="section-item"> 
+            <div class="section-item">
               <div class="col-md-3"><h5>Address:</h5> </div>
-              <div class="col-md-9">D.No:11-13-295/5, Rd no: 7, Alkapuri, Hyderabad-500035 ,Telangana</div> 
+              <div class="col-md-9">D.No:11-13-295/5, Rd no: 7, Alkapuri, Hyderabad-500035 ,Telangana</div>
             </div>
 
-            <div class="section-item"> 
+            <div class="section-item">
               <div class="col-md-3"><h5>Mobile: </h5></div>
-              <div class="col-md-9"><a href="tel:+919866581043">+91 9866581043</a>, <a href="tel:+919985855959">+91 9985855959</a></div> 
+              <div class="col-md-9"><a href="tel:+919866581043">+91 9866581043</a>, <a href="tel:+919985855959">+91 9985855959</a></div>
             </div>
 
-            <div class="section-item"> 
+            <div class="section-item">
               <div class="col-md-3"><h5>Mails: </h5></div>
-              <div class="col-md-9"><a href="mailto:rasasvadaarchitects@gmail.com">rasasvadaarchitects@gmail.com</a>, <a href="mailto:info@rasasvadaarchitects.com">info@rasasvadaarchitects.com</a></div> 
+              <div class="col-md-9"><a href="mailto:rasasvadaarchitects@gmail.com">rasasvadaarchitects@gmail.com</a>, <a href="mailto:info@rasasvadaarchitects.com">info@rasasvadaarchitects.com</a></div>
             </div>
-              
-            <div class="section-item icons-s">   
+
+            <div class="section-item icons-s">
                 <a href="https://www.behance.net/RasasvadaArchitects">
                   <i class="fa fa-behance" aria-hidden="true"></i></a>
                 <!-- <a href="contact.php">
@@ -113,9 +113,9 @@
                 <a href="contact.php"> <i class="fa fa-instagram" aria-hidden="true"></i></a>
                 <a href="contact.php"><i class="fa fa-twitter" aria-hidden="true"></i></a>   -->
             </div>
-            
-            <div class="col-lg-12  item" style="margin-top: 40px;"> 
-              <button class="btn1 start-new-btn" type="button" id="start-new-project-btn" class="filled-button">Start New Project</button> 
+
+            <div class="col-lg-12  item" style="margin-top: 40px;">
+              <button class="btn1 start-new-btn" type="button" id="start-new-project-btn" class="filled-button">Start New Project</button>
             </div>
     </form>
         </div>
@@ -126,31 +126,31 @@
         <div class="contact-form">
             <div class="row">
           <form id="contact-us">
-              <div class="col-lg-12 col-md-12 col-sm-12 item"> 
+              <div class="col-lg-12 col-md-12 col-sm-12 item">
                   <p> Name</p>
-                  <input name="name" type="text" class="form-control" id="name" required=""> 
+                  <input name="name" type="text" class="form-control" id="name" required="">
               </div>
-              <div class="col-lg-12 col-md-12 col-sm-12  item"> 
+              <div class="col-lg-12 col-md-12 col-sm-12  item">
                   <p> Email</p>
-                  <input name="email" type="text" class="form-control" id="email" required=""> 
+                  <input name="email" type="text" class="form-control" id="email" required="">
               </div>
-              <div class="col-lg-12 col-md-12 col-sm-12  item"> 
+              <div class="col-lg-12 col-md-12 col-sm-12  item">
                   <p> Phone Number</p>
-                  <input name="phone" type="int" class="form-control" id="phone" required=""> 
+                  <input name="phone" type="int" class="form-control" id="phone" required="">
               </div>
-              <div class="col-lg-12  item"> 
+              <div class="col-lg-12  item">
                   <p>Subject</p>
-                  <textarea name="subject" rows="6" class="form-control" id="subject" required=""></textarea> 
+                  <textarea name="subject" rows="6" class="form-control" id="subject" required=""></textarea>
               </div>
-              <div class="col-lg-12  item"> 
-                  <button class="btn1" type="submit" id="form-submit" class="filled-button">Submit</button> 
+              <div class="col-lg-12  item">
+                  <button class="btn1" type="submit" id="form-submit" class="filled-button">Submit</button>
               </div>
           </form>
             </div>
         </div>
       </div>
     </div>
-   
+
   </div>
   </div>
 
@@ -172,9 +172,9 @@
     </div>
   </section>
 
-  
 
-  
+
+
 
 
   <!-- Bootstrap core JavaScript -->
@@ -203,7 +203,7 @@
 
   <!-- Include the Google Maps API library - required for embedding maps -->
   <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
-  
+
   <script src="assets/js/contact.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
     integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
